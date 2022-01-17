@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498730376952",
+    "project_id": "flutter-shoe",
+    "storage_bucket": "flutter-shoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498730376952:android:b33aafca57cf30466ee50d",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.a_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498730376952-4lemmi4616759ovil47fv3f6smnq6l5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewWZ6-fbPXTSpz_ACy_WVYEOICjl1dvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498730376952-4lemmi4616759ovil47fv3f6smnq6l5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

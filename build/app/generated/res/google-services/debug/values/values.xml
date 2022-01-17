@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">498730376952-4lemmi4616759ovil47fv3f6smnq6l5p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">498730376952</string>
+    <string name="google_api_key" translatable="false">AIzaSyAewWZ6-fbPXTSpz_ACy_WVYEOICjl1dvM</string>
+    <string name="google_app_id" translatable="false">1:498730376952:android:b33aafca57cf30466ee50d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAewWZ6-fbPXTSpz_ACy_WVYEOICjl1dvM</string>
+    <string name="google_storage_bucket" translatable="false">flutter-shoe.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-shoe</string>
+</resources>
